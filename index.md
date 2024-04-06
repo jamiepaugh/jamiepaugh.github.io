@@ -1,1 +1,1 @@
-- [Home Lab](/homelab/)
+- [Home Lab](/homelab/landing.md)
