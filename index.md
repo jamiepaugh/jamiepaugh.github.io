@@ -1,4 +1,1 @@
-# Hello, World!
-
-- I am
-- Very Cool
+- [Home Lab](/homelab/)
